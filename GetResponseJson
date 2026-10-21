@@ -15,18 +15,18 @@
         "product_id": "prod_periodic",
         "product_name": "Tabla Periodica Digital",
         "published_at": "2026-10-21T13:48:00+02:00",
-        "content": "La ultima version digital de nuestra tabla periodica convierte la consulta de los elementos en una experiencia mucho mas visual, rapida e interactiva. Ideal para estudiar, ensenar y descubrir quimica de una forma mas atractiva.",
+        "content": "La ultima version digital de nuestra tabla periodica convierte la consulta de los elementos en una experiencia mucho mas visual, rapida e interactiva. Ideal para estudiar, ensenar y describir quimica de una forma mas atractiva.",
         "likes": 2846,
         "comment_count": 9,
         "comments": [
-          {"id":"c001","user":{"id":"u001","name":"Lucia Martin","handle":"@luciamartin"},"content":"A ver si anaden un modo oscuro, me duelen los ojos","likes":932},
+          {"id":"c001","user":{"id":"u001","name":"Lucia Martin","handle":"@luciamartin"},"content":"A ver si anaden un modo oscuro, me duelen los ojos.","likes":932},
           {"id":"c002","user":{"id":"u002","name":"Carlos Vega","handle":"@cvega"},"content":"Esta genial. Asi si da gusto aprender quimica 🔥","likes":715},
           {"id":"c003","user":{"id":"u003","name":"Marta Campos","handle":"@martac"},"content":"Siguiente paso: un mapa interactivo del cuerpo humano donde puedas explorar organos, sistemas y pequenas animaciones explicativas.","likes":486},
-          {"id":"c004","user":{"id":"u004","name":"Diego Ruiz","handle":"@diegoruiz"},"content":"Necesito esto mismo para astronomia: planetas, estrellas, constelaciones y misiones espaciales. Una aplicacion 3D seria brutal 🚀","likes":354},
-          {"id":"c005","user":{"id":"u005","name":"Sara Molina","handle":"@saramol"},"content":"Anadiria miniretos y quizzes adaptativos. Estaria genial que la app detectase que elementos te cuestan mas y te propusiera repasarlos.","likes":291},
+          {"id":"c004","user":{"id":"u004","name":"Diego Ruiz","handle":"@diegoruiz"},"content":"Necesito esto mismo para astronomia: planetas, estrellas, constelaciones y misiones espaciales. Una aplicacion 3D seria brutal.","likes":354},
+          {"id":"c005","user":{"id":"u005","name":"Sara Molina","handle":"@saramol"},"content":"Anadiria miniretos y quizzes adaptativos. Estaria genial que la app detectase que elementos te cuestan mas y te propusiese repasarlos.","likes":291},
           {"id":"c006","user":{"id":"u006","name":"Alvaro Torres","handle":"@atorres"},"content":"Una app de historia con una linea temporal interactiva seria increible: personajes, inventos y acontecimientos conectados entre si.","likes":207},
           {"id":"c007","user":{"id":"u007","name":"Nerea Gil","handle":"@nereag"},"content":"El diseno esta increible 💜 Por fin una herramienta educativa que apetece explorar.","likes":154},
-          {"id":"c008","user":{"id":"u008","name":"Pablo Soto","handle":"@pablosoto"},"content":"Para profes: permitiria crear colecciones de elementos, compartirlas con una clase y lanzar actividades directamente desde la aplicacion.","likes":121},
+          {"id":"c008","user":{"id":"u008","name":"Pablo Soto","handle":"@pablosoto"},"content":"Para profes: permitira crear colecciones de elementos, compartirlas con una clase y lanzar actividades directamente desde la aplicacion.","likes":121},
           {"id":"c009","user":{"id":"u009","name":"Elena Mora","handle":"@elenamora"},"content":"Y una aplicacion de geografia tipo atlas vivo? Capas de relieve, clima, poblacion y curiosidades por pais.","likes":96}
         ]
       },
@@ -39,8 +39,8 @@
         "likes": 1934,
         "comment_count": 8,
         "comments": [
-          {"id":"c101","user":{"id":"u010","name":"Irene Pastor","handle":"@irenep"},"content":"Los retos diarios me tienen enganchada. Es la primera vez que practico calculo por voluntad propia.","likes":638},
-          {"id":"c102","user":{"id":"u011","name":"Hugo Leon","handle":"@hugoleon"},"content":"Estaria bien poder elegir el curso y que la dificultad se adapte automaticamente a los errores que cometes.","likes":521},
+          {"id":"c101","user":{"id":"u010","name":"Irene Pastor","handle":"@irenep"},"content":"A ver si anaden un modo oscuro, me duelen los ojos.","likes":638},
+          {"id":"c102","user":{"id":"u011","name":"Hugo Leon","handle":"@hugoleon"},"content":"Estaria bien poder elegir el curso y que la dificultad se adapte automaticamente a los errores que comete.","likes":521},
           {"id":"c103","user":{"id":"u012","name":"Raquel Nieto","handle":"@raqueln"},"content":"Quiero ligas privadas para competir con mis amigos o con la clase sin entrar en rankings publicos.","likes":386},
           {"id":"c104","user":{"id":"u013","name":"Marcos Vidal","handle":"@marcosv"},"content":"Las animaciones estan bien, pero algunas rondas se hacen repetitivas despues de varios dias.","likes":272},
           {"id":"c105","user":{"id":"u014","name":"Aitana Sanz","handle":"@aitanas"},"content":"Podriais explicar por que una respuesta es incorrecta en vez de limitaros a mostrar el resultado correcto.","likes":441},
@@ -58,7 +58,7 @@
         "likes": 2215,
         "comment_count": 8,
         "comments": [
-          {"id":"c201","user":{"id":"u018","name":"Andrea Rey","handle":"@andrearey"},"content":"La forma de conectar acontecimientos es buenisima. Me ayuda mucho mas que memorizar fechas.","likes":602},
+          {"id":"c201","user":{"id":"u018","name":"Andrea Rey","handle":"@andrearey"},"content":"A ver si anaden un modo oscuro, me duelen los ojos.","likes":602},
           {"id":"c202","user":{"id":"u019","name":"Javier Cano","handle":"@javiercano"},"content":"Anadiria un mapa mundial que cambie segun avanzas por la linea temporal.","likes":579},
           {"id":"c203","user":{"id":"u020","name":"Claudia Rios","handle":"@claudiar"},"content":"Seria genial poder comparar dos epocas en paralelo y ver que estaba ocurriendo al mismo tiempo en distintos paises.","likes":463},
           {"id":"c204","user":{"id":"u021","name":"Adrian Mena","handle":"@adrianm"},"content":"Hay demasiado texto en algunas historias. Preferiria mas ilustraciones, audio y pequenos videos.","likes":348},
@@ -77,7 +77,7 @@
         "likes": 1748,
         "comment_count": 8,
         "comments": [
-          {"id":"c301","user":{"id":"u026","name":"Sofia Galan","handle":"@sofiag"},"content":"El mapa es super intuitivo. Aprendi mas capitales jugando una tarde que en una semana estudiando listas.","likes":549},
+          {"id":"c301","user":{"id":"u026","name":"Sofia Galan","handle":"@sofiag"},"content":"A ver si anaden un modo oscuro, me duelen los ojos.","likes":549},
           {"id":"c302","user":{"id":"u027","name":"Lucas Serrano","handle":"@lucass"},"content":"Necesita un modo viaje: eliges una ruta y la app te va preguntando por los lugares que atraviesas.","likes":497},
           {"id":"c303","user":{"id":"u028","name":"Valeria Gil","handle":"@valeriag"},"content":"Pondria capas con datos historicos para comparar como han cambiado las fronteras.","likes":412},
           {"id":"c304","user":{"id":"u029","name":"Mario Alonso","handle":"@marioa"},"content":"La capa de clima tarda demasiado en cambiar y rompe un poco la experiencia.","likes":286},
@@ -96,7 +96,7 @@
         "likes": 2562,
         "comment_count": 8,
         "comments": [
-          {"id":"c401","user":{"id":"u034","name":"Celia Roman","handle":"@celiar"},"content":"Los modelos 3D de la celula son espectaculares. Poder separar cada parte ayuda muchisimo.","likes":713},
+          {"id":"c401","user":{"id":"u034","name":"Celia Roman","handle":"@celiar"},"content":"A ver si anaden un modo oscuro, me duelen los ojos.","likes":713},
           {"id":"c402","user":{"id":"u035","name":"Nicolas Pardo","handle":"@nicolasp"},"content":"Me gustaria poder hacer zoom dentro de los organos y pasar de anatomia a nivel celular sin salir de la vista.","likes":664},
           {"id":"c403","user":{"id":"u036","name":"Laura Duran","handle":"@laurad"},"content":"Anadiria simulaciones donde cambias una variable y ves que sucede en el organismo.","likes":598},
           {"id":"c404","user":{"id":"u037","name":"Victor Calvo","handle":"@victorc"},"content":"El contenido esta muy bien, aunque al principio cuesta entender como rotar algunos modelos.","likes":225},
