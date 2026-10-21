@@ -1,0 +1,123 @@
+{
+  "status": 200,
+  "success": true,
+  "endpoint": "/api/v1/companies/edutainment/posts?include=comments",
+  "generated_at": "2026-10-21T15:48:51+02:00",
+  "data": {
+    "company": {
+      "id": "company_edutainment",
+      "name": "Edutainment",
+      "handle": "@edutainment"
+    },
+    "posts": [
+      {
+        "id": "post_001",
+        "product_id": "prod_periodic",
+        "product_name": "Tabla Periodica Digital",
+        "published_at": "2026-10-21T13:48:00+02:00",
+        "content": "La ultima version digital de nuestra tabla periodica convierte la consulta de los elementos en una experiencia mucho mas visual, rapida e interactiva. Ideal para estudiar, ensenar y descubrir quimica de una forma mas atractiva.",
+        "likes": 2846,
+        "comment_count": 9,
+        "comments": [
+          {"id":"c001","user":{"id":"u001","name":"Lucia Martin","handle":"@luciamartin"},"content":"A ver si anaden un modo oscuro, me duelen los ojos","likes":932},
+          {"id":"c002","user":{"id":"u002","name":"Carlos Vega","handle":"@cvega"},"content":"Esta genial. Asi si da gusto aprender quimica 🔥","likes":715},
+          {"id":"c003","user":{"id":"u003","name":"Marta Campos","handle":"@martac"},"content":"Siguiente paso: un mapa interactivo del cuerpo humano donde puedas explorar organos, sistemas y pequenas animaciones explicativas.","likes":486},
+          {"id":"c004","user":{"id":"u004","name":"Diego Ruiz","handle":"@diegoruiz"},"content":"Necesito esto mismo para astronomia: planetas, estrellas, constelaciones y misiones espaciales. Una aplicacion 3D seria brutal 🚀","likes":354},
+          {"id":"c005","user":{"id":"u005","name":"Sara Molina","handle":"@saramol"},"content":"Anadiria miniretos y quizzes adaptativos. Estaria genial que la app detectase que elementos te cuestan mas y te propusiera repasarlos.","likes":291},
+          {"id":"c006","user":{"id":"u006","name":"Alvaro Torres","handle":"@atorres"},"content":"Una app de historia con una linea temporal interactiva seria increible: personajes, inventos y acontecimientos conectados entre si.","likes":207},
+          {"id":"c007","user":{"id":"u007","name":"Nerea Gil","handle":"@nereag"},"content":"El diseno esta increible 💜 Por fin una herramienta educativa que apetece explorar.","likes":154},
+          {"id":"c008","user":{"id":"u008","name":"Pablo Soto","handle":"@pablosoto"},"content":"Para profes: permitiria crear colecciones de elementos, compartirlas con una clase y lanzar actividades directamente desde la aplicacion.","likes":121},
+          {"id":"c009","user":{"id":"u009","name":"Elena Mora","handle":"@elenamora"},"content":"Y una aplicacion de geografia tipo atlas vivo? Capas de relieve, clima, poblacion y curiosidades por pais.","likes":96}
+        ]
+      },
+      {
+        "id": "post_002",
+        "product_id": "prod_mathquest",
+        "product_name": "MathQuest",
+        "published_at": "2026-10-14T18:15:00+02:00",
+        "content": "MathQuest transforma algebra y calculo mental en aventuras cortas con niveles, retos y recompensas virtuales.",
+        "likes": 1934,
+        "comment_count": 8,
+        "comments": [
+          {"id":"c101","user":{"id":"u010","name":"Irene Pastor","handle":"@irenep"},"content":"Los retos diarios me tienen enganchada. Es la primera vez que practico calculo por voluntad propia.","likes":638},
+          {"id":"c102","user":{"id":"u011","name":"Hugo Leon","handle":"@hugoleon"},"content":"Estaria bien poder elegir el curso y que la dificultad se adapte automaticamente a los errores que cometes.","likes":521},
+          {"id":"c103","user":{"id":"u012","name":"Raquel Nieto","handle":"@raqueln"},"content":"Quiero ligas privadas para competir con mis amigos o con la clase sin entrar en rankings publicos.","likes":386},
+          {"id":"c104","user":{"id":"u013","name":"Marcos Vidal","handle":"@marcosv"},"content":"Las animaciones estan bien, pero algunas rondas se hacen repetitivas despues de varios dias.","likes":272},
+          {"id":"c105","user":{"id":"u014","name":"Aitana Sanz","handle":"@aitanas"},"content":"Podriais explicar por que una respuesta es incorrecta en vez de limitaros a mostrar el resultado correcto.","likes":441},
+          {"id":"c106","user":{"id":"u015","name":"Samuel Costa","handle":"@samuelc"},"content":"Me encantaria un modo cooperativo donde dos alumnos resuelvan un problema entre los dos.","likes":317},
+          {"id":"c107","user":{"id":"u016","name":"Noa Ferrer","handle":"@noaf"},"content":"Muy divertido y visual. Los logros hacen que quieras seguir jugando.","likes":204},
+          {"id":"c108","user":{"id":"u017","name":"Ivan Romero","handle":"@ivanr"},"content":"En el movil pequeno algunos botones quedan demasiado juntos y cuesta acertar.","likes":133}
+        ]
+      },
+      {
+        "id": "post_003",
+        "product_id": "prod_historia",
+        "product_name": "TimeTraveler Historia",
+        "published_at": "2026-10-07T12:05:00+02:00",
+        "content": "Viaja por distintas epocas con TimeTraveler Historia: explora acontecimientos, personajes y decisiones mediante historias interactivas.",
+        "likes": 2215,
+        "comment_count": 8,
+        "comments": [
+          {"id":"c201","user":{"id":"u018","name":"Andrea Rey","handle":"@andrearey"},"content":"La forma de conectar acontecimientos es buenisima. Me ayuda mucho mas que memorizar fechas.","likes":602},
+          {"id":"c202","user":{"id":"u019","name":"Javier Cano","handle":"@javiercano"},"content":"Anadiria un mapa mundial que cambie segun avanzas por la linea temporal.","likes":579},
+          {"id":"c203","user":{"id":"u020","name":"Claudia Rios","handle":"@claudiar"},"content":"Seria genial poder comparar dos epocas en paralelo y ver que estaba ocurriendo al mismo tiempo en distintos paises.","likes":463},
+          {"id":"c204","user":{"id":"u021","name":"Adrian Mena","handle":"@adrianm"},"content":"Hay demasiado texto en algunas historias. Preferiria mas ilustraciones, audio y pequenos videos.","likes":348},
+          {"id":"c205","user":{"id":"u022","name":"Paula Bravo","handle":"@paulab"},"content":"Podriais incluir un modo examen que genere preguntas a partir de las epocas que ya has explorado.","likes":332},
+          {"id":"c206","user":{"id":"u023","name":"Gonzalo Prieto","handle":"@gonzalop"},"content":"Me encantan las decisiones tipo aventura. Dan ganas de investigar que ocurrio realmente despues.","likes":261},
+          {"id":"c207","user":{"id":"u024","name":"Miriam Soler","handle":"@miriams"},"content":"Echo de menos contenidos mas detallados sobre historia de Asia, Africa y America Latina.","likes":239},
+          {"id":"c208","user":{"id":"u025","name":"Daniela Cruz","handle":"@danielac"},"content":"La navegacion entre capitulos a veces es confusa. Un indice visual ayudaria bastante.","likes":118}
+        ]
+      },
+      {
+        "id": "post_004",
+        "product_id": "prod_geo",
+        "product_name": "GeoExplorer",
+        "published_at": "2026-09-30T17:30:00+02:00",
+        "content": "GeoExplorer convierte el mundo en un atlas interactivo con paises, capitales, relieve, clima y desafios de exploracion.",
+        "likes": 1748,
+        "comment_count": 8,
+        "comments": [
+          {"id":"c301","user":{"id":"u026","name":"Sofia Galan","handle":"@sofiag"},"content":"El mapa es super intuitivo. Aprendi mas capitales jugando una tarde que en una semana estudiando listas.","likes":549},
+          {"id":"c302","user":{"id":"u027","name":"Lucas Serrano","handle":"@lucass"},"content":"Necesita un modo viaje: eliges una ruta y la app te va preguntando por los lugares que atraviesas.","likes":497},
+          {"id":"c303","user":{"id":"u028","name":"Valeria Gil","handle":"@valeriag"},"content":"Pondria capas con datos historicos para comparar como han cambiado las fronteras.","likes":412},
+          {"id":"c304","user":{"id":"u029","name":"Mario Alonso","handle":"@marioa"},"content":"La capa de clima tarda demasiado en cambiar y rompe un poco la experiencia.","likes":286},
+          {"id":"c305","user":{"id":"u030","name":"Natalia Rico","handle":"@nataliar"},"content":"Me gustaria crear quizzes personalizados seleccionando continentes, paises o capitales.","likes":301},
+          {"id":"c306","user":{"id":"u031","name":"Alex Conde","handle":"@alexconde"},"content":"Un modo multijugador de adivinar lugares contra amigos seria fantastico.","likes":274},
+          {"id":"c307","user":{"id":"u032","name":"Beatriz Lara","handle":"@beatrizl"},"content":"Muy buena idea, pero en tablet algunas etiquetas del mapa son demasiado pequenas.","likes":167},
+          {"id":"c308","user":{"id":"u033","name":"Eric Blanco","handle":"@ericb"},"content":"Las curiosidades de cada pais son lo mejor de la aplicacion.","likes":142}
+        ]
+      },
+      {
+        "id": "post_005",
+        "product_id": "prod_biolab",
+        "product_name": "BioLab 3D",
+        "published_at": "2026-09-22T11:20:00+02:00",
+        "content": "Con BioLab 3D puedes explorar celulas, organos y sistemas del cuerpo mediante modelos interactivos y pequenos experimentos virtuales.",
+        "likes": 2562,
+        "comment_count": 8,
+        "comments": [
+          {"id":"c401","user":{"id":"u034","name":"Celia Roman","handle":"@celiar"},"content":"Los modelos 3D de la celula son espectaculares. Poder separar cada parte ayuda muchisimo.","likes":713},
+          {"id":"c402","user":{"id":"u035","name":"Nicolas Pardo","handle":"@nicolasp"},"content":"Me gustaria poder hacer zoom dentro de los organos y pasar de anatomia a nivel celular sin salir de la vista.","likes":664},
+          {"id":"c403","user":{"id":"u036","name":"Laura Duran","handle":"@laurad"},"content":"Anadiria simulaciones donde cambias una variable y ves que sucede en el organismo.","likes":598},
+          {"id":"c404","user":{"id":"u037","name":"Victor Calvo","handle":"@victorc"},"content":"El contenido esta muy bien, aunque al principio cuesta entender como rotar algunos modelos.","likes":225},
+          {"id":"c405","user":{"id":"u038","name":"Eva Puig","handle":"@evapuig"},"content":"Estaria genial que los profesores pudieran marcar estructuras y crear un examen practico sobre el modelo 3D.","likes":407},
+          {"id":"c406","user":{"id":"u039","name":"Bruno Suarez","handle":"@brunos"},"content":"Necesitamos realidad aumentada para colocar un organo o una celula encima de la mesa y explorarlo desde el movil.","likes":355},
+          {"id":"c407","user":{"id":"u040","name":"Olivia Marin","handle":"@oliviam"},"content":"Las explicaciones de los sistemas son claras y no se hacen pesadas.","likes":190},
+          {"id":"c408","user":{"id":"u041","name":"Dario Pascual","handle":"@dariop"},"content":"El rendimiento baja bastante cuando activo varios modelos a la vez.","likes":176}
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "page": 1,
+    "page_size": 5,
+    "total_posts": 5,
+    "has_more": false
+  },
+  "mock_metadata": {
+    "synthetic": true,
+    "purpose": "Dataset ficticio para pruebas de analisis de sentimiento y extraccion/priorizacion de sugerencias mediante agentes IA.",
+    "labels_intentionally_omitted": ["sentiment", "comment_type", "suggestion_topic"],
+    "note": "El primer post reutiliza el contenido y los comentarios del mock HTML previo. Los posts y comentarios adicionales son sinteticos. Los likes son valores ficticios y no representan interacciones reales."
+  }
+}
